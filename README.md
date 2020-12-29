@@ -1,6 +1,8 @@
 # DnBRadio RPC (UNOFFICIAL)
 Display current DnBRadio tracks as Discord Rich Presence
 
+![asd](https://i.imgur.com/QgOluoY.png)
+
 # Install Dependencies
 ```
 npm install
